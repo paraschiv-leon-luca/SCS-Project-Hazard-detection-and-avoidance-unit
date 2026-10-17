@@ -40,11 +40,15 @@
 
 <h2>3. Work Plan</h2>
 <ul>
-  <li><strong>Meeting 1:</strong> Define baseline 5-stage pipeline specifications, target instruction set, and complete the bibliographic study.</li>
-  <li><strong>Meeting 2:</strong> Design the RTL architecture and truth tables for the Data Forwarding Unit to resolve ALU RAW hazards.</li>
-  <li><strong>Meeting 3:</strong> Design the Hazard Detection Unit logic to handle load-use stalls and pipeline register flushing.</li>
-  <li><strong>Meeting 4:</strong> Integrate the detection and forwarding units into the baseline processor datapath and run verification testbenches.</li>
-  <li><strong>Meeting 5:</strong> Analyze timing constraints, finalize performance evaluation, and prepare the final project documentation.</li>
+  <li><strong>Meeting 1:</strong> Pick project.</li>
+  <li><strong>Meeting 2:</strong> Study the main contents of the project.</li>
+  <li><strong>Meeting 3:</strong>  Sketch out the forwarding unit and draft its truth tables.</li>
+  <li><strong>Meeting 4:</strong> Build the stall logic for load-use hazards and handle pipeline flushes.</li>
+  <li><strong>Meeting 5:</strong> Integrate both units to the CPU and test if everything works together.</li>
+  <li><strong>Meeting 6: </strong>
+  Check timing, run performance tests, and finish the documentation. </li>
+  <li><strong>Meeting 7: </strong>
+  Main presentation, testing and evaluation.
 </ul>
 
 <h2>4. Bibliography</h2>
